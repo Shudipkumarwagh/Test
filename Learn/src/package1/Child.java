@@ -2,7 +2,7 @@ package package1;
 
 public class Child extends Parent{
 	
-	    //Checking github
+	    //Checking github, how it works
 		public String test="Hello I am a Test from Child class";
 		
 		
